@@ -21,7 +21,7 @@ An open-source micro AFHDS2A (FlySky) receiver.
 | Parts | LCSC / AliExpress | ~$3 |
 | **Total per unit** | | **~$3–5** |
 
-See [PARTS.md](PARTS.md) for the detailed BOM and component trade-offs.
+See [PARTS.md](PARTS.md) for the detailed BOM.
 
 ### Programming
 
