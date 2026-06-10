@@ -1,9 +1,30 @@
 # Nano2A
-Nano2A is an open source micro AFHDS2A reciver.
 
-# Getting Started
-To get started, clone the project
-```
-git clone https://github.com/AbstractMelon/Nano2A
-cd Nano2A
-```
+An open-source micro AFHDS2A (FlySky) receiver.
+
+## Features
+
+- **Protocol:** AFHDS2A (FlySky)
+- **Outputs:** PWM (3ch), iBUS (all channels + telemetry)
+- **Input voltage:** 6.4–16.8V (2S–4S LiPo)
+- **Weight:** < 5g
+- **Size:** ~15×10mm PCB
+- **Range:** 300m+ (open field)
+- **Telemetry:** Battery voltage reporting via iBUS (optional)
+- **Cost:** ~$3 BOM + ~$2 PCB
+
+## Build It
+
+| Item | Source | Cost |
+|---|---|---|
+| PCBs | JLCPCB (see /PCB) | ~$2 for 5 |
+| Parts | LCSC / AliExpress | ~$3 |
+| **Total per unit** | | **~$3–5** |
+
+See [PARTS.md](PARTS.md) for the detailed BOM and component trade-offs.
+
+### Programming
+
+4-pin SWD header (GND, SWDIO, SWCLK, 3.3V).
+
+Firmware build: (coming soon)
