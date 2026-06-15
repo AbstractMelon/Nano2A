@@ -1874,12 +1874,6 @@
 		(uuid "9e35dd59-7601-4625-bc0d-7c376b84f932")
 	)
 	(junction
-		(at 137.16 49.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "acd316d3-ca6b-42b1-a0ac-79900f26fd5a")
-	)
-	(junction
 		(at 58.42 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1896,6 +1890,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f5cf0c65-474a-451a-b62e-f77878ecfdfe")
+	)
+	(junction
+		(at 137.16 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fdf2785c-0c66-4950-8cd7-3604ea32e609")
 	)
 	(wire
 		(pts
@@ -2846,10 +2846,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1ef9380e-fc9a-4046-9b53-1c99203cf962")
 		(property "Reference" "C6"
-			(at 118.11 73.66 90)
+			(at 118.11 84.328 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2859,7 +2858,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 118.11 76.2 90)
+			(at 118.364 86.106 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4146,7 +4145,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f30a1753-a4e8-4584-a235-81893f70d0ba")
 		(property "Reference" "L1"
 			(at 119.38 71.12 90)
@@ -4159,7 +4157,7 @@
 			)
 		)
 		(property "Value" "2.2nH"
-			(at 119.38 73.66 90)
+			(at 119.38 75.184 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
