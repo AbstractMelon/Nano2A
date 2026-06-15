@@ -3227,7 +3227,7 @@
 		(dnp no)
 		(uuid "57b053c5-a10c-424e-8093-1bafbd5ed1c3")
 		(property "Reference" "Y1"
-			(at 152.908 103.378 90)
+			(at 153.67 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
