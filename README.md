@@ -10,7 +10,7 @@ An open-source micro AFHDS2A (FlySky) receiver.
 - **Weight:** < 5g
 - **Size:** ~15×10mm PCB
 - **Range:** 300m+ (open field)
-- **Telemetry:** Battery voltage reporting via iBUS (optional)
+- **Telemetry:** Battery voltage reporting via iBUS
 - **Cost:** ~$3 BOM + ~$2 PCB
 
 ## Build It
@@ -25,6 +25,6 @@ See [PARTS.md](PARTS.md) for the detailed BOM.
 
 ### Programming
 
-4-pin SWD header (GND, SWDIO, SWCLK, 3.3V).
+2-pin SWD header (SWDIO, SWCLK).
 
 Firmware build: (coming soon)
