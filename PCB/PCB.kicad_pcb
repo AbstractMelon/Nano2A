@@ -4363,17 +4363,6 @@
 		)
 	)
 	(gr_rect
-		(start 159.5 71.5)
-		(end 170.5 81)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(fill no)
-		(layer "F.Cu")
-		(uuid "67bb3da0-adb8-4e49-ac97-e88013a1e76e")
-	)
-	(gr_rect
 		(start 148.5 56.25)
 		(end 158.5 69.5)
 		(stroke
@@ -4383,17 +4372,6 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "709a95ec-5bdc-41f8-aff6-4e57d28076b8")
-	)
-	(gr_rect
-		(start 159.5 56.5)
-		(end 170.5 81)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(fill no)
-		(layer "Edge.Cuts")
-		(uuid "124234f7-30ef-482a-a0bd-ce6c9551717a")
 	)
 	(segment
 		(start 155.3659 59.706)
