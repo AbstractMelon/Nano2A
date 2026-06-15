@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Nano2A")(type "KiCad")(uri "${KIPRJMOD}/Nano2A.kicad_sym")(options "")(descr ""))
+)
