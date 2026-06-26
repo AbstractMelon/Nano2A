@@ -17,9 +17,9 @@ An open-source micro AFHDS2A (FlySky) receiver.
 
 | Item | Source | Cost |
 |---|---|---|
-| PCBs | JLCPCB (see /PCB) | ~$2 for 5 |
-| Parts | LCSC / AliExpress | ~$3 |
-| **Total per unit** | | **~$3–5** |
+| PCBs | JLCPCB (see /PCB) | $0.39 |
+| Parts | LCSC / AliExpress | $2.58 |
+| **Total per unit** | | **$2.97** |
 
 See [PARTS.md](PARTS.md) for the detailed BOM.
 
