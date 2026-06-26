@@ -5,7 +5,7 @@ Prices from LCSC (June 2026), 10+ pricing bracket (or nearest available).
 | Ref | Value | Qty | Package | LCSC Part # | Unit Price (10+) | Line Total | Link |
 |---|---|---|---|---|---|---|---|
 | **U1** | STM32G031F6P6 | 1 | TSSOP-20 | C529333 | $1.4007 | $1.4007 | [LCSC](https://www.lcsc.com/product-detail/C529333.html) |
-| **U2** | A7106 | 1 | SSOP-16 | — | $0.792 | $0.792 | [AliExpress (5-pack)](https://www.aliexpress.us/item/3256805620729769.html) |
+| **U2** | A7106 | 1 | QFN-20 | — | $0.792 | $0.792 | [AliExpress (5-pack)](https://www.aliexpress.us/item/3256805620729769.html) |
 | **U3** | HT7333-3.3V | 1 | SOT-89-3 | C84207 | $0.2394 | $0.2394 | [LCSC](https://www.lcsc.com/product-detail/C84207.html) |
 | **Y1** | 16MHz | 1 | 3225-4P | C12668 | $0.0755 | $0.0755 | [LCSC](https://www.lcsc.com/product-detail/C12668.html) |
 | **L1** | 2.2nH ±0.1nH | 1 | 0402 | C91240 | $0.0466 | $0.0466 | [LCSC](https://www.lcsc.com/product-detail/C91240.html) |
