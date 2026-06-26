@@ -13,13 +13,10 @@ Prices from LCSC (June 2026), 10+ pricing bracket (or nearest available).
 | **C2** | 22pF ±5% | 1 | 0402 | C1555 | $0.0013 | $0.0013 | [LCSC](https://www.lcsc.com/product-detail/C1555.html) |
 | **C3** | 22pF ±5% | 1 | 0402 | C1555 | $0.0013 | $0.0013 | [LCSC](https://www.lcsc.com/product-detail/C1555.html) |
 | **C4** | 100nF ±10% | 1 | 0402 | C41851 | $0.0011 | $0.0011 | [LCSC](https://www.lcsc.com/product-detail/C41851.html) |
-| **C5** | 100nF ±10% | 1 | 0402 | C41851 | $0.0011 | $0.0011 | [LCSC](https://www.lcsc.com/product-detail/C41851.html) |
 | **C6** | 100nF ±10% | 1 | 0402 | C41851 | $0.0011 | $0.0011 | [LCSC](https://www.lcsc.com/product-detail/C41851.html) |
 | **C7** | 10µF ±10% | 1 | 0603 | C19702 | $0.0174 | $0.0174 | [LCSC](https://www.lcsc.com/product-detail/C19702.html) |
 | **R1** | 10kΩ ±1% | 1 | 0402 | C843837 | $0.0039 | $0.0039 | [LCSC](https://www.lcsc.com/product-detail/C843837.html) |
-| **R2** | 10kΩ ±1% | 1 | 0402 | C843837 | $0.0039 | $0.0039 | [LCSC](https://www.lcsc.com/product-detail/C843837.html) |
-| **R3** | 1.8kΩ ±5% | 1 | 0402 | C137909 | $0.0009 | $0.0009 | [LCSC](https://www.lcsc.com/product-detail/C137909.html) |
-| **R4** | 22kΩ ±1% | 1 | 0402 | C144778 | $0.0012 | $0.0012 | [LCSC](https://www.lcsc.com/product-detail/C144778.html) |
+| **ANT1** | RFANT3216120A5T | 1 | 1206 | C127629 | $0.0966 | $0.0966 | [LCSC](https://www.lcsc.com/product-detail/C127629.html) |
 | **TP1** | Test point, SWDIO | 1 | D1.0mm pad | — | — | — | — |
 | **TP2** | Test point, SWCLK | 1 | D1.0mm pad | — | — | — | — |
 | **CH1** | Test point, ADC/CH1 | 1 | THT 1.0mm | — | — | — | — |
@@ -29,9 +26,9 @@ Prices from LCSC (June 2026), 10+ pricing bracket (or nearest available).
 | **GND1** | Test point, ground | 1 | THT 1.0mm | — | — | — | — |
 | **PCB** | 10×13mm, 2-layer | 1 | — | JLCPCB | ~$0.40 | $0.40 | [JLCPCB](https://jlcpcb.com) |
 | **PCB** | 10×13mm, 2-layer | 1 | — | OSHPark | ~$0.39 | $0.39 | [OSHPark](https://oshpark.com) |
-| | | | | | **Components total** | **$2.5896** | |
-| | | | | | **+ JLCPCB PCB** | **$2.9896** | |
-| | | | | | **+ OSHPark PCB** | **$2.9796** | |
+| | | | | | **Components total** | **$2.6791** | |
+| | | | | | **+ JLCPCB PCB** | **$3.0791** | |
+| | | | | | **+ OSHPark PCB** | **$3.0691** | |
 
 ## Notes
 
