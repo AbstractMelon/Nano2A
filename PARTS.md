@@ -33,3 +33,5 @@ Prices from LCSC (June 2026), 10+ pricing bracket (or nearest available).
 ## Notes
 
 - **PCB price** — JLCPCB: ~$2 for 5 boards ($0.40/board). OSHPark: $1.16 for 3 boards ($0.39/board, 9-12 day, US fab).
+
+Unadded: https://www.lcsc.com/product-detail/C56816.html
