@@ -6,7 +6,7 @@ An open-source micro AFHDS2A (FlySky) receiver.
 
 - **Protocol:** AFHDS2A (FlySky)
 - **Outputs:** PWM (4ch), iBUS (all channels + telemetry)
-- **Input voltage:** 6.4–16.8V (2S–4S LiPo)
+- **Input voltage:** 6.4–22.2V (2S–6S LiPo)
 - **Weight:** < 3g
 - **Size:** ~10×13mm PCB
 - **Range:** 300m+ (open field)
