@@ -27,15 +27,16 @@ Prices from LCSC (July 2026), 10+ pricing bracket (or nearest available).
 | **R1** | 10kΩ ±1% | 1 | 0402 | C843837 | $0.0037 | $0.0037 | [LCSC](https://www.lcsc.com/product-detail/C843837.html) |
 | **R2** | 68kΩ ±1% | 1 | 0402 | C100512 | $0.0019 | $0.0019 | [LCSC](https://www.lcsc.com/product-detail/C100512.html) |
 | **R3** | 10kΩ ±1% | 1 | 0402 | C843837 | $0.0037 | $0.0037 | [LCSC](https://www.lcsc.com/product-detail/C843837.html) |
+| **D1** | SMAJ30A | 1 | SMA (DO-214AC) | C305640 | $0.0322 | $0.0322 | [LCSC](https://www.lcsc.com/product-detail/C305640.html) |
 | **ANT1** | RFANT3216120A5T | 1 | 1206 | C127629 | $0.0966 | $0.0966 | [LCSC](https://www.lcsc.com/product-detail/C127629.html) |
 | **J1** | 1x6 2.54mm Pin Header (right-angle) | 1 | 2.54mm | C56816 | $0.0385 | $0.0385 | [LCSC](https://www.lcsc.com/product-detail/C56816.html) |
 | **TP3** | Test point, SWDIO | 1 | D1.0mm pad | — | — | — | — |
 | **TP4** | Test point, SWCLK | 1 | D1.0mm pad | — | — | — | — |
 | **PCB** | 10×13mm, 2-layer | 1 | — | JLCPCB | ~$0.40 | $0.40 | [JLCPCB](https://jlcpcb.com) |
 | **PCB** | 10×13mm, 2-layer | 1 | — | OSHPark | ~$0.39 | $0.39 | [OSHPark](https://oshpark.com) |
-| | | | | | | **Components total** | **$2.70** |
-| | | | | | | **+ JLCPCB PCB** | **$3.10** |
-| | | | | | | **+ OSHPark PCB** | **$3.09** |
+| | | | | | | **Components total** | **$2.73** |
+| | | | | | | **+ JLCPCB PCB** | **$3.13** |
+| | | | | | | **+ OSHPark PCB** | **$3.12** |
 
 ## Notes
 
