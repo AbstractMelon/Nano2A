@@ -6,7 +6,7 @@ Prices from LCSC (July 2026), 10+ pricing bracket (or nearest available).
 |---|---|---|---|---|---|---|---|
 | **U1** | TPS7B6933-3.3V | 1 | SOT-23-5 | C527569 | $0.4015 | $0.4015 | [LCSC](https://www.lcsc.com/product-detail/C527569.html) |
 | **U2** | A7106 | 1 | QFN-20 | - | $0.7920 | $0.7920 | [AliExpress (5-pack)](https://www.aliexpress.us/item/3256805620729769.html) |
-| **U4** | STM32G031F6Px | 1 | TSSOP-20 | C529333 | $1.4007 | $1.4007 | [LCSC](https://www.lcsc.com/product-detail/C529333.html) |
+| **U4** | PY32F030F18P6 | 1 | TSSOP-20 | C3018715 | $0.3071 | $0.3071 | [LCSC](https://www.lcsc.com/product-detail/C3018715.html) |
 | **Y1** | 16MHz | 1 | 3225-4P | C12668 | $0.0755 | $0.0755 | [LCSC](https://www.lcsc.com/product-detail/C12668.html) |
 | **L1** | 2.7nH ±0.1nH | 1 | 0402 | C27123 | $0.0045 | $0.0045 | [LCSC](https://www.lcsc.com/product-detail/C27123.html) |
 | **L2** | 4.7nH ±0.1nH | 1 | 0402 | C86065 | $0.0085 | $0.0085 | [LCSC](https://www.lcsc.com/product-detail/C86065.html) |
@@ -36,9 +36,9 @@ Prices from LCSC (July 2026), 10+ pricing bracket (or nearest available).
 | **TP4** | Test point, SWCLK | 1 | D1.0mm pad | - | - | - | - |
 | **PCB** | 13.75×15mm, 2-layer | 1 | - | JLCPCB | ~$0.40 | $0.40 | [JLCPCB](https://jlcpcb.com) |
 | **PCB** | 13.75×15mm, 2-layer | 1 | - | OSHPark | ~$0.39 | $0.39 | [OSHPark](https://oshpark.com) |
-| | | | | | | **Components total** | **$2.90** |
-| | | | | | | **+ JLCPCB PCB** | **$3.30** |
-| | | | | | | **+ OSHPark PCB** | **$3.29** |
+| | | | | | | **Components total** | **$1.81** |
+| | | | | | | **+ JLCPCB PCB** | **$2.21** |
+| | | | | | | **+ OSHPark PCB** | **$2.20** |
 
 ## Notes
 
