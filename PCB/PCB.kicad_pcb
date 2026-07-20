@@ -300,7 +300,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0e9f6927-aa96-444c-8229-72fb30a4b757")
-		(at 188.96 104.7 -90)
+		(at 188.95 103.9 -90)
 		(descr "Through hole angled pin header, 1x05, 2.54mm pitch, 6mm pin length, single row")
 		(tags "Through hole angled pin header THT 1x05 2.54mm single row")
 		(property "Reference" "J1"
@@ -1051,7 +1051,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "GND")
+			(net "/CH3")
 			(pinfunction "Pin_1_1")
 			(pintype "passive")
 			(uuid "5b0d9187-12fa-44e9-84da-9ea208f0bcc8")
@@ -1062,7 +1062,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "Net-(D1-A2)")
+			(net "/CH2")
 			(pinfunction "Pin_2_2")
 			(pintype "passive")
 			(uuid "ed60dfef-660a-4033-a528-fba0fabc4a96")
@@ -1084,7 +1084,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "/CH2")
+			(net "Net-(D1-A2)")
 			(pinfunction "Pin_4_4")
 			(pintype "passive")
 			(uuid "4f9734a0-4196-493c-b0de-4abe7d4d4132")
@@ -1095,7 +1095,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "/CH3")
+			(net "GND")
 			(pinfunction "Pin_5_5")
 			(pintype "passive")
 			(uuid "8fff1290-073f-4df4-a1f0-44bdfa215ddf")
@@ -2975,7 +2975,6 @@
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(net "GND")
 			(uuid "65296fb1-79bf-4e49-8b1c-05171b9cc41c")
 		)
 		(pad "4" smd roundrect
@@ -2983,7 +2982,6 @@
 			(size 1.4 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.208333)
-			(net "GND")
 			(uuid "dcfe64cd-740d-4b37-8614-5d47155722f9")
 		)
 		(embedded_fonts no)
@@ -4775,7 +4773,7 @@
 		(property "Reference" "U2"
 			(at 0 -3.3 0)
 			(layer "F.SilkS")
-			(uuid "ee9b6893-5fc7-4e5c-bef9-f940357d60a0")
+			(uuid "62147a03-7d58-40f3-b43e-7e389f9fdae8")
 			(effects
 				(font
 					(size 1 1)
@@ -4786,7 +4784,7 @@
 		(property "Value" "A7106"
 			(at 0 3.3 0)
 			(layer "F.Fab")
-			(uuid "5c976eae-3d28-411c-a9ba-bd77a22a925a")
+			(uuid "ce135d91-2d43-419e-af7f-2fba17dc1d25")
 			(effects
 				(font
 					(size 1 1)
@@ -4798,7 +4796,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8638819a-0361-4aff-be45-4e14afd5e409")
+			(uuid "576d6100-8061-43b8-ba0c-83badc6a76bf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4809,7 +4807,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9632bafc-297d-4ddc-99dd-352ceb050ade")
+			(uuid "16e80a95-354a-4edd-ac2f-386834164fe8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6808,8 +6806,8 @@
 		)
 	)
 	(gr_rect
-		(start 177.025 90)
-		(end 190.775 106)
+		(start 177.025 90.5)
+		(end 190.775 105.5)
 		(stroke
 			(width 0.05)
 			(type solid)
